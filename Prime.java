@@ -3,6 +3,7 @@ import java.util.Random;
 public class Prime {
 
     public static void main(String[] args) {
+
         
         printPrimes();
         
